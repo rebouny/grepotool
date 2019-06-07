@@ -1,0 +1,16 @@
+INPUT(
+./build\release\.obj\win32\gtdownload.o
+./build\release\.obj\win32\gtcore.o
+./build\release\.obj\win32\gtapp.o
+./build\release\.obj\win32\gtsplash.o
+./build\release\.obj\win32\gtarchive.o
+./build\release\.obj\win32\gtrelease.o
+./build\release\.obj\win32\gtprogress.o
+./build\release\.obj\win32\json.o
+./build\release\.obj\win32\qrc_gtcore.o
+./build\release\.obj\win32\moc_GtApp.o
+./build\release\.obj\win32\moc_GtDownload.o
+./build\release\.obj\win32\moc_GtSplash.o
+./build\release\.obj\win32\moc_GtArchive.o
+./build\release\.obj\win32\moc_GtProgress.o
+);

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="gt.ico">icons/gt.ico</file>
+        <file alias="splash.png">icons/splash.png</file>
+        <file alias="bbcode_player.png">icons/bbcodes/bbcode_player.png</file>
+        <file alias="bbcode_ally.png">icons/bbcodes/bbcode_ally.png</file>
+        <file alias="bbcode_ghost.png">icons/bbcodes/bbcode_ghost.png</file>
+        <file alias="bbcode_points.png">icons/bbcodes/bbcode_points.png</file>
+        <file alias="bbcode_town.png">icons/bbcodes/bbcode_town.png</file>
+    </qresource>
+</RCC>
